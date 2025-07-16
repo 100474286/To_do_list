@@ -12,3 +12,4 @@ cancel.onclick = function(){
     pop_up.style.display = "none";
     
 }
+
