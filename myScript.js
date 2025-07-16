@@ -10,4 +10,5 @@ boton_new.onclick = function(){
 
 cancel.onclick = function(){
     pop_up.style.display = "none";
+    
 }
