@@ -16,6 +16,7 @@ cancel.onclick = function(){
 
 
 accept.onclick = function(){
+    
     let input = document.getElementById("nueva_task");
     let text = input.value.trim();
 
